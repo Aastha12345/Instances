@@ -13,7 +13,8 @@
 
 ## About
 
-This is a site to post blogs (here we call it Instances ). Anyone can read the blogs but needs to sign up or login to post one and also for commenting on the blogs. The website is still in development stage and is expected to have in the futture a Profile page for the users and also options to like the posts and chat with other users and also a better UI.
+This website is still in development stage and is expected to have in the future a Profile page for the users and also options to like the posts and chat with other users and also a better UI.
+Travel Junkies can checkout 
 
 ## Demo
 
